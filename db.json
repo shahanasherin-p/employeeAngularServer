@@ -1,0 +1,172 @@
+{
+  "allEmployees": [
+    {
+      "id": 1,
+      "name": "Alice Johnson",
+      "email": "alice.johnson@example.com",
+      "job_title": "Software Engineer",
+      "age": 28,
+      "status": "active"
+    },
+    {
+      "id": 2,
+      "name": "Bob Smith",
+      "email": "bob.smith@example.com",
+      "job_title": "Product Manager",
+      "age": 34,
+      "status": "inactive"
+    },
+    {
+      "id": 3,
+      "name": "Carol Williams",
+      "email": "carol.williams@example.com",
+      "job_title": "Designer",
+      "age": 26,
+      "status": "active"
+    },
+    {
+      "id": 4,
+      "name": "David Brown",
+      "email": "david.brown@example.com",
+      "job_title": "Data Analyst",
+      "age": 30,
+      "status": "inactive"
+    },
+    {
+      "id": 5,
+      "name": "John Doe",
+      "email": "johndoe@example.com",
+      "age": 30,
+      "job_title": "Software Engineer",
+      "status": "inactive"
+    },
+    {
+      "id": 6,
+      "name": "Jane Smith",
+      "email": "janesmith@example.com",
+      "age": 34,
+      "job_title": "Product Manager",
+      "status": "inactive"
+    },
+    {
+      "id": 7,
+      "name": "Emily Johnson",
+      "email": "emilyjohnson@example.com",
+      "age": 27,
+      "job_title": "Data Analyst",
+      "status": "active"
+    },
+    {
+      "id": 8,
+      "name": "Michael Brown",
+      "email": "michaelbrown@example.com",
+      "age": 41,
+      "job_title": "Graphic Designer",
+      "status": "inactive"
+    },
+    {
+      "id": 9,
+      "name": "Sarah Davis",
+      "email": "sarahdavis@example.com",
+      "age": 30,
+      "job_title": "HR Specialist",
+      "status": "active"
+    },
+    {
+      "id": 10,
+      "name": "David Wilson",
+      "email": "davidwilson@example.com",
+      "age": 36,
+      "job_title": "DevOps Engineer",
+      "status": "active"
+    },
+    {
+      "id": 11,
+      "name": "Linda Martinez",
+      "email": "lindamartinez@example.com",
+      "age": 28,
+      "job_title": "Marketing Coordinator",
+      "status": "inactive"
+    },
+    {
+      "id": 12,
+      "name": "James Taylor",
+      "email": "jamestaylor@example.com",
+      "age": 32,
+      "job_title": "Business Analyst",
+      "status": "active"
+    },
+    {
+      "id": 13,
+      "name": "Patricia Anderson",
+      "email": "patriciaanderson@example.com",
+      "age": 25,
+      "job_title": "UX Designer",
+      "status": "active"
+    },
+    {
+      "id": 14,
+      "name": "Christopher Thomas",
+      "email": "christopherthomas@example.com",
+      "age": 39,
+      "job_title": "IT Support Specialist",
+      "status": "inactive"
+    },
+    {
+      "id": 15,
+      "name": "Barbara Moore",
+      "email": "barbaramoore@example.com",
+      "age": 33,
+      "job_title": "Project Manager",
+      "status": "active"
+    },
+    {
+      "id": 16,
+      "name": "Kevin Harris",
+      "email": "kevinharris@example.com",
+      "age": 37,
+      "job_title": "Database Administrator",
+      "status": "inactive"
+    },
+    {
+      "id": 17,
+      "name": "Nancy Clark",
+      "email": "nancyclark@example.com",
+      "age": 31,
+      "job_title": "Technical Writer",
+      "status": "active"
+    },
+    {
+      "id": 18,
+      "name": "Mark Lewis",
+      "email": "marklewis@example.com",
+      "age": 26,
+      "job_title": "Full Stack Developer",
+      "status": "active"
+    },
+    {
+      "id": 19,
+      "name": "Laura Hall",
+      "email": "laurahall@example.com",
+      "age": 29,
+      "job_title": "SEO Specialist",
+      "status": "inactive"
+    },
+    {
+      "id": 20,
+      "name": "Alex Benjamin",
+      "email": "alex@gmail.com",
+      "age": 26,
+      "job_title": "Web Developer",
+      "status": "inactive"
+    },
+    {
+      "name": "max",
+      "email": "max@gmail.com",
+      "age": "22",
+      "job_title": "hr",
+      "status": "active",
+      "id": 21
+    }
+  ]
+}
